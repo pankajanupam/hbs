@@ -22,7 +22,8 @@
     "test": "mocha"
   },
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 0.8",
+    "npm": "1.2.8000 || >= 1.4.16"
   },
   "repository": {
     "type": "git",
